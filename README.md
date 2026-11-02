@@ -1,6 +1,6 @@
 # Red vs Blue Pong — LÖVE2D
 
-**Name:** [Tariq AbuAlsoud]  
+**Name:** Tariq AbuAlsoud 
 
 ## About the Game
 
