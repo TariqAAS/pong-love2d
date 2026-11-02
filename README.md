@@ -31,9 +31,19 @@ I added several features to personalize my game:
 - **Game Over system:** The game ends when a team misses the ball and announces the winner.
 - **Restart feature:** Pressing R starts a new match.
 
-## Screenshot
+## Screenshots
 
-![Pong gameplay](screenshots/game.png)
+### Game Screenshot 1
+![Gameplay 1](screenshots/image.png)
+
+### Game Screenshot 2
+![Gameplay 2](screenshots/image2.png)
+
+### Game Screenshot 3
+![Gameplay 3](screenshots/image3.png)
+
+### Game Screenshot 4
+![Gameplay 4](screenshots/image4.png)
 
 ## Demo Video
 
